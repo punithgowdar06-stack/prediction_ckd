@@ -1,0 +1,17 @@
+%%writefile README.md
+# Chronic Kidney Disease Prediction
+
+This project focuses on building and evaluating machine learning models for chronic kidney disease prediction using a synthetic dataset. It includes data generation, preprocessing, model training, evaluation, and visualization, along with a basic Streamlit application for demonstration.
+
+## Project Contents
+
+-   `chronic_kidney_disease_prediction.ipynb`: The Jupyter notebook containing the data generation, model training, evaluation, and visualization steps.
+-   `app.py`: The Streamlit application script for interactive predictions.
+-   `requirements.txt`: Lists the Python dependencies required to run the project.
+-   `trained_models/`: Directory containing the saved trained machine learning models in `.joblib` format.
+
+## Setup
+
+1.  Clone the repository to your local machine.
+2.  Make sure you have Python installed (3.6 or higher recommended).
+3.  Install the required libraries by running the following command in your terminal:
